@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there, I'm Hitesh Chauhan!👋</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Hitesh Chauhan from Thane, Maharashtra, India.<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning DevOps<br>- ⚡ In my free time I watch movies</p>
+<p align="left">I'm Hitesh Chauhan from Thane, Maharashtra, India.<br><br>- 🔭 I’m working as Software Developer<br>- 📚 Currently learning DevOps & Cloud<br>- ⚡ In my free time, I love watching movies <br>- 💡 Passionate about building useful, scalable products</p>
 
 ###
 
@@ -94,7 +94,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chauhan-Hitesh&theme=dark" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=Chauhan-Hitesh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3%22%20height=%22220%22%20alt=%22streak%20graph"  />
 </div>
 
 ###
